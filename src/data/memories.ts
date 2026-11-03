@@ -13,7 +13,7 @@ export type Memory = {
 export const memories: Memory[] = [
   {
     id: 1,
-    src: "",
+    src: "/images/memories/02.jpg",
     alt: "Your first favorite memory together",
     title: "A moment worth keeping",
     caption: "Add your photo and the little story behind it here.",

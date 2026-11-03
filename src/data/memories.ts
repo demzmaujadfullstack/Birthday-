@@ -22,7 +22,7 @@ export const memories: Memory[] = [
   },
   {
     id: 2,
-    src: "",
+    src: "/images/memories/03.jpg",
     alt: "A meaningful memory together",
     title: "The kind of day you replay",
     caption: "Write a caption that brings this moment back to life.",
@@ -31,7 +31,7 @@ export const memories: Memory[] = [
   },
   {
     id: 3,
-    src: "",
+    src: "/images/memories/01.jpg",
     alt: "A joyful memory together",
     title: "A little piece of forever",
     caption: "Keep a sentence about what made this moment yours.",
@@ -40,7 +40,7 @@ export const memories: Memory[] = [
   },
   {
     id: 4,
-    src: "",
+    src: "/images/memories/04.jpg",
     alt: "A quiet memory together",
     title: "Ordinary, but somehow magic",
     caption: "Even the smallest memory deserves a beautiful frame.",
@@ -49,7 +49,7 @@ export const memories: Memory[] = [
   },
   {
     id: 5,
-    src: "",
+    src: "/images/memories/05.jpg",
     alt: "Another treasured memory together",
     title: "Still my favorite place",
     caption: "Add one more chapter to your little collection.",
